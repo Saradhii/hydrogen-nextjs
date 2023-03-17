@@ -18,7 +18,7 @@ const Home = ({ posts }) => {
   return (
     <Base>
       {/* profile */}
-      <div className="section">
+      {/* <div className="section">
         <div className="container">
           <div className="row">
             <div className="mx-auto text-center lg:col-8">
@@ -41,7 +41,7 @@ const Home = ({ posts }) => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* posts */}
       <div className="pt-4">
